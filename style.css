@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(140, 147, 147);
+}
+.container{
+    text-transform: uppercase ;
+    font-size: xx-large;
+
+}
+.container1{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+#home{
+    display: inline;
+    color: rgb(196, 66, 66);
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+#forsale{
+display: inline;
+text-transform: uppercase;
+padding-left: 50px;
+}
+#repairs{
+    display: inline;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+#about{
+    display: inline;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+#contact{
+    display: inline;
+    text-transform: uppercase;
+    padding-left: 50px;
+}
+#image1{
+    display: inline;
+    width: 200px;
+    height: 150px;
+}
+#image2{
+    display: inline;
+    width: 200px;
+    height: 150px;
+}
+#image3{
+    display: inline;
+    width: 200px;
+    height: 150px;
+}
+.para{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 200;
+}
